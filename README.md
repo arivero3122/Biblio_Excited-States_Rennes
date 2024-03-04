@@ -10,12 +10,12 @@ Below is the list of all the sources used in the preparation and delivery of the
 
 - [How to train a neural network potential](https://pubs.aip.org/aip/jcp/article/159/12/121501/2913426/How-to-train-a-neural-network-potential)
 - [Perspective: Atomistic Simulations of Water and Aqueous Systems with Machine Learning Potentials](https://arxiv.org/abs/2401.17875)
-- [Strategies for the construction of machine-learning potentials for accurate and efficient atomic-scale simulations]([https://linktoarticle3.com](https://iopscience.iop.org/article/10.1088/2632-2153/abfd96))
--[ænet-PyTorch: A GPU-supported implementation for machine learning atomic potentials training](https://pubs.aip.org/aip/jcp/article/158/16/164105/2885330/anet-PyTorch-A-GPU-supported-implementation-for)
+- [Strategies for the construction of machine-learning potentials for accurate and efficient atomic-scale simulations](https://iopscience.iop.org/article/10.1088/2632-2153/abfd96)
+- [ænet-PyTorch: A GPU-supported implementation for machine learning atomic potentials training](https://pubs.aip.org/aip/jcp/article/158/16/164105/2885330/anet-PyTorch-A-GPU-supported-implementation-for)
 
 ## Study Case
 
--[Mechanism of Ultraviolet-Induced CO Desorption from CO Ice: Role of Vibrational Relaxation Highlighted](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.131.238001)
+- [Mechanism of Ultraviolet-Induced CO Desorption from CO Ice: Role of Vibrational Relaxation Highlighted](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.131.238001)
 
 ## Machine-Learning Potential Energy Surfaces (Excited States)
 
