@@ -30,10 +30,6 @@ Below is the list of all the sources used in the preparation and delivery of the
 
 This repository is intended for anyone who wishes to delve deeper into the topics discussed in the presentation or verify the sources of the information presented. You can click on any link in the bibliography to access the original source.
 
-## Feedback
-
-If you have any questions, suggestions, or would like to discuss the contents of the presentation further, feel free to [open an issue](https://github.com/YourGitHubUsername/YourRepositoryName/issues/new) in this repository or contact me directly.
-
 Thank you for your interest in my presentation and the supporting bibliography.
 
 ---
