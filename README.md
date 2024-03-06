@@ -13,7 +13,7 @@ Below is the list of all the sources used in the preparation and delivery of the
 - [Strategies for the construction of machine-learning potentials for accurate and efficient atomic-scale simulations](https://iopscience.iop.org/article/10.1088/2632-2153/abfd96)
 - [ænet-PyTorch: A GPU-supported implementation for machine learning atomic potentials training](https://pubs.aip.org/aip/jcp/article/158/16/164105/2885330/anet-PyTorch-A-GPU-supported-implementation-for)
 
-## List of best of Atomistic Machine Learning
+## List of atomistic machine learning (AML) projects
 
 - [Best of Atomistic Machine Learning](https://github.com/JuDFTteam/best-of-atomistic-machine-learning)
 
